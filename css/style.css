@@ -1,0 +1,19 @@
+#strona {background-color: blue;}
+
+h1 {background-color: beige;
+color:blue}
+
+h2 {background-color: coral;
+color: rgb(48, 3, 90);}
+
+p {background-color: aqua;
+color:brown;
+font-size: 1.2em;}
+
+h1 + p {background-color: brown;
+color: gold;}
+
+ol {background-color: pink;
+color:olivedrab;
+font-size: 1.2em;}
+   
